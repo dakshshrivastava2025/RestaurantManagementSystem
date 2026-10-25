@@ -1,0 +1,45 @@
+S_no,Food_Item,Prices,Food_Type
+1,"Paneer Makhana",320.00,Veg
+2,"Palak Paneer",240.00,Veg
+3,"Kadhai Paneer",350.00,Veg
+4,"Paneer Kolhapuri",410.00,Veg
+5,"Paneer Dhanya-Adraki",499.00,Veg
+6,"Chicken Tangdi Kabab(3pc)",300.00,Non-veg
+7,"Chicken Popcorn & French fries",420.00,Non-veg
+8,"Chicken Tikka Dum Biryani",789.00,Non-veg
+9,"Murg Mussallam",520.00,Non-veg
+10,"Butter Chicken",799.00,Non-veg
+11,"Chicken Bhuna Masala",400.00,Non-veg
+12,"Patty Paratha Wrap",250.00,Veg
+13,"Veg Roll",200.00,Veg
+14,"Paneer Butter Masala Wrap",300.00,Veg
+15,"Regular Paneer Roll(2pc)",280.00,Veg
+16,"Chicken Tikka Roll(2pc)",320.00,Non-veg
+17,"Double Egg-Chicken Roll",200.00,Non-veg
+18,"Egg Frankie",270.00,Non-veg
+19,"Mutton Seekh Kabab Roll",290.00,Non-veg
+20,"Chicken Irani Roll",285.00,Non-veg
+21,"Regular Veg Biryani",350.00,Veg
+22,"Paneer Dum Biryani",380.00,Veg
+23,"Mushroom Biryani",300.00,Veg
+24,"Regular Chicken Biryani",350.00,Non-veg
+25,"Regular Mutton Biryani",400.00,Non-veg
+26,"Mutton Dum Biryani",480.00,Non-veg
+27,"Regular Dal",200.00,Veg
+28,"Dal Fry",280.00,Veg
+29,"Dal Makhani",350.00,Veg
+30,"Dal Tadka",380.00,Veg
+31,"Regular Roti(5pc)",200.00,Veg
+32,"Regular Paratha(5pc)",250.00,Veg
+33,"Regular Naan(2pc)",200.00,Veg
+34,"Butter Naan(2pc)",230.00,Veg
+35,"Garlic Naan(2pc)",280.00,Veg
+36,"Masala Naan(2pc)",350.00,Veg
+37,"Cheese Pav Bhaji(3pc)",320.00,Veg
+38,"Cheese Grilled Vada Pav(3pc)",250.00,Veg
+39,"Chole Bhature(3pc)",299.00,Veg
+41,"North Indian Thali",800.00,Veg
+42,"South Indian Thali",899.00,Veg
+43,"Gujrati Thali",899.00,Veg
+44,"Marathi Thali",900.00,Veg
+55,Omlette,50.00,NON-VEG
